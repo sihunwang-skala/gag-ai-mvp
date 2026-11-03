@@ -1,0 +1,27 @@
+# secrets / env
+.env
+.env.*
+!.env.example
+# 개인정보·사용자 데이터
+backend/data/
+*.db
+*.sqlite
+*.sqlite3
+data/
+uploads/
+# 모델 파일
+*.pt
+*.pth
+*.onnx
+*.safetensors
+*.gguf
+*.ckpt
+models/
+# build / deps
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
