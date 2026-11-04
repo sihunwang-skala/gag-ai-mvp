@@ -1,4 +1,4 @@
-# Gag AI (MVP)
+# Gag AI 
 
 유머 취향, 즉흥 대화 반응, 맥락·타이밍을 이해하는 AI 서비스의 실행 가능한 MVP입니다.
 단순 Joke Generator가 아니라 **취향 파악 → 반사신경 연습 → 대화형 컴패니언**으로 이어지는 구조입니다. 한국어 우선, 로그인 없는 로컬 데모, API Key 없이 Mock Mode로 end-to-end 실행됩니다.
